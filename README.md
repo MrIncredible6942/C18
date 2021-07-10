@@ -1,2 +1,2 @@
-# C18
-Made by the best person ever
+# C18-Akash
+device specific adjustment
